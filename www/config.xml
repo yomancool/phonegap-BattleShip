@@ -14,11 +14,11 @@
       <string>20300</string>
     </gap:config-file>
 
-    <content src="https://tictactoe.ygame.us/?phonegapPlugins=v105" />
+    <content src="https://battleship.life/?phonegapPlugins=v105" />
     
-    <name>Tic Tac Toe</name>
-    <author email="yoav.zibin@gmail.com">
-        yoav.zibin@gmail.com
+    <name>BattleShip</name>
+    <author email="hyc404@gmail.com">
+        hyc404@gmail.com
     </author>
 
     <preference name="android-build-tool" value="gradle" />
